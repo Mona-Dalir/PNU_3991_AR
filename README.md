@@ -1,14 +1,16 @@
 # PNU_3991_AR
----------
+
 ### مونا دلیر
 ---
-- [حساب گیت هاب](https://github.com/Mona-Dalir)
+- [Github](https://github.com/Mona-Dalir)
 
-- [رزومه دو زبانه](https://mona-dalir.github.io/m.dl.github.io/)
+-[Resume](https://mona-dalir.github.io/m.dl.github.io/)
 
 - [SOP](https://mona-dalir.github.io/Sop/)
 
 - [JavaScript_certificate](https://github.com/Mona-Dalir/PNU_3991_AR/blob/main/Js.jpg)
+
+-[PNU_3991_AR]( https://github.com/Mona-Dalir/PNU_3991_AR)
 
 
 ------------------
@@ -26,6 +28,7 @@
      1. [UID-12_مونا دلير](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/12_%D9%85%D9%88%D9%86%D8%A7%20%D8%AF%D9%84%D9%8A%D8%B1)
 
 ----------
+
 
 ##  سیاهه ارزشیابی درس
 
