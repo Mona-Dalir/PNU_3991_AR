@@ -4,13 +4,13 @@
 ---
 - [Github](https://github.com/Mona-Dalir)
 
--[Resume](https://mona-dalir.github.io/m.dl.github.io/)
+- [Resume](https://mona-dalir.github.io/m.dl.github.io/)
 
 - [SOP](https://mona-dalir.github.io/Sop/)
 
 - [JavaScript_certificate](https://github.com/Mona-Dalir/PNU_3991_AR/blob/main/Js.jpg)
 
--[PNU_3991_AR]( https://github.com/Mona-Dalir/PNU_3991_AR)
+- [PNU_3991_AR]( https://github.com/Mona-Dalir/PNU_3991_AR)
 
 
 ------------------
