@@ -25,86 +25,59 @@
       1. [UID-32_محمدطاها گوينده برحقي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/32_%D9%85%D8%AD%D9%85%D8%AF%D8%B7%D8%A7%D9%87%D8%A7%20%DA%AF%D9%88%D9%8A%D9%86%D8%AF%D9%87%20%D8%A8%D8%B1%D8%AD%D9%82%D9%8A)
      1. [UID-12_مونا دلير](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/12_%D9%85%D9%88%D9%86%D8%A7%20%D8%AF%D9%84%D9%8A%D8%B1)
 
-------------------
-## رزومه های گروه
+----------
 
-1. [محمدطاها گوينده برحقي](https://Mtaha00.github.io)
-1. [عسل كريم خراساني](https://asalkarimkhorasani.github.io/asalkh/)
-1. [منا اندوري](https://mona99a.github.io/resume/)
-1. [زهرا ماهان](https://zahramahan.github.io/zahra-resum/)
-1. [عرفان عطامنصوری](https://erfanata.github.io/)
-1. [مریم شعبانی](https://mrymsh.github.io/maryam-shabani/)
-1. [فاطمه قاسمی](https://fatemehqasemii.github.io/)
-1. [مونا دلیر](https://mona-dalir.github.io/m.dl.github.io)
+##  سیاهه ارزشیابی درس
 
-------------------
+1. **فعالیت های مشترک همه دانشجویان**
+  -  1. [ساخت اکانت گیت هاب](https://github.com/mona99a)
+  -  2. [آموزش گیت در سایت پچ ورک](https://github.com/mona99a/PNU_3991_AR/blob/main/jlord%20patchwork/patchwork.png)
+  -  3. [ارائه رزومه](https://mona99a.github.io/resume/)
+  -  4. [ارائه انگیزه نامه](https://mona99a.github.io/SOP/)
+  -  5. [ایجاد ریپازیتوری PNU_3991_AR](https://github.com/mona99a/PNU_3991_AR/tree/main)
+  -  6. [گذراندن دوره js از سایت سولولرن](https://github.com/mona99a/PNU_3991_AR/blob/main/jlord%20patchwork/patchwork.png)
 
-## Winter Semester Courses 1399/2020
-
-## دروس کارشناسی
-
-[1322108_01 تعامل انسان و كامپيوتر ](https://github.com/Mtaha00/PNU_3991_AR/tree/main/HumanComputerInteraction)
 <br>
-[1322110_01 طراحي واسط كاربر](https://github.com/Mtaha00/PNU_3991_AR/tree/main/UserInterfaceDesign)
 
---------------
-## روز و ساعت ارائه دروس
+2. **فعالیت های گروهی**
+    1. [معرفی یک درس مشابه در دانشگاههای دیگر](https://communications.uoregon.edu/content/wireframes)
+    2. انتخاب موضوع کار گروهی
+           -تحلیل سایت های فروشگاه لباس انلاین 
+          - [digistyle](https://www.digistyle.com/)
+          - [banimode](http://banimode.com/)
+          - [modiseh](https://www.modiseh.com/)
+    3. تحلیل نیازها
+           <br>-هر دو عضو گروه یک نمونه مشابه
+           <br>[تحلیل سایت digistyle](https://github.com/mona99a/PNU_3991_AR/blob/main/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA.pdf)
+          - ارائه نیازها همه گروه با هم
+          
+              ```diff
+              + هر سه سایت مشکل رعایت فونت و رنگ داشتند 
+              + عدم رعایت رنگبندی برای کور رنگ ها
+              + مشکل نوشته شدن متن ها در سایت
+              + نداشتن بک گراند و زیبایی بصری
+              +نداشتن منو متحرک برای دسترسی راحت کاربران به اجناس مورد نیازشان
+              +در ابتدا صفحه ی اصلی باز خواهد شد
+              +ایتم هایی که کاربر ابتدا مشاهده میکند شامل سبد خرید ورود به سایت قسمت سرچ و منو
+              +کاربر میتواند با کلیک بر روی ایتم سبد خرید سبد خرید خود را مشاهده کند
+              +با رفتن روی منو، منو به صورت کشویی باز خواهد شد
+              +دسته بندی محصولات در منو قابل مشاهده میباشد
+              +کاربر میتواند با کلیک بر روی اسلایدر به صفحه ی مربوط به اسلایدر مراجعه کند
+              +در پایین تر از صفحه کاربر با هرکت موس بر روی کالاهای به نمایش درامده میتواند کالاها را به صورت دیگر مشاهده کند
+              +در ادامه ی صفحه یک سری پیشنهادات محصول یا تخفیف به کاربر داده میشود
+              +در انتهای صفحه کاربر با کلیک بر روی ایکون برند ها میتواند محصولات آن برند را مشاهده کند
+              +در فوتر صفحه ی اصلی کاربر میتواند به نمادها و مجوز های سایت دسترسی داشته باشد
+              +کاربر میتواند از طریق ایمیل و شماره ها یا خبر نامه با سایت در ارتباط باشد
+              +در فوتر سایت کاربر میتواند به اکانت های سوشیال مدیای سایت دسترسی داشته باشد
+      4. تجربه کاربری
+            <br>
+            - [ دوره طراحی رابط کاربرUI](https://toplearn.com/courses/2135/%D8%AF%D9%88%D8%B1%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-(-ui-))
+           <br> -کتاب disigning with the Mind in Mind
+      5. [طرح دستی صفحه اصلی وب سایت](https://github.com/mona99a/PNU_3991_AR/blob/main/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B3%D8%AA%DB%8C/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B3%D8%AA%DB%8C%20%D8%A7%D8%B2%20%D8%B5%D9%81%D8%AD%D9%87%20%D8%A7%D8%B5%D9%84%DB%8C%20%DB%8C%DA%A9%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%84%D8%A8%D8%A7%D8%B3.pdf)
+      6. وایرفریم(صفحه ی اصلی سایت)
+                - [HomeScreen Wireframe-pdf]()
+      7. ارائه    
+      8. ارزیابی
 
-<table style="width:100%">
-  <tr>
-    <th >16-18</th>
-    <th >14-16</th>
-    <th >12-14</th>
-    <th>10-12</th>
-    <th>8-10</th>
-    <th>روز</th>
-  </tr>
-  <tr>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-    <th>شنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th ></th>
-    <th>یک شنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">طراحي واسط كاربر</a></th>
-    <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">تعامل انسان و كامپيوتر</a></th>
-    <th ></th>   
-    <th>دوشنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-    <th ></th>
-    <th>سه شنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-     <th ></th>
-    <th>چهارشنبه</th>
-  </tr>
-   <tr>
-    <th ></th>
-     <th ></th>
-     <th ></th>
-     <th></th>
-    <th></th>
-    <th>پنج شنبه</th>
-  </tr>
-</table>
+
+</div>
