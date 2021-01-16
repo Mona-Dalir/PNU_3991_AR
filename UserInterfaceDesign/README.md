@@ -48,7 +48,7 @@
           - [modiseh](https://www.modiseh.com/)
     3. تحلیل نیازها
            <br>-هر دو عضو گروه یک نمونه مشابه
-           <br>[تحلیل سایت Modiseh]( https://github.com/Mona-Dalir/PNU_3991_AR/blob/main/modiseh.pdf)
+           <br>[تحلیل سایت Modiseh]( https://github.com/Mona-Dalir/PNU_3991_AR/blob/main/HumanComputerInteraction/tahlil%20homepage/modiseh.pdf)
           - ارائه نیازها همه گروه با هم
           
               ```diff
